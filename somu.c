@@ -4,6 +4,6 @@
 
 int main(){
 
-  printf("Hello World commited by mistake");
+  printf("Hello World from somnath");
     return 0;
 }
